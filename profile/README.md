@@ -1,7 +1,8 @@
 # Publications
 **\[SIGMOD '24\]** Proving Query Equivalence Using Linear Integer Arithmetic. 
 Haoran Ding, Zhaoguo Wang, Yicun Yang, Dexin Zhang, Zhenglin Xu, Haibo Chen, Ruzica Piskac, Jinyang Li.
-In Proceedings of the 2024 ACM SIGMOD International Conference on Management of Data. (To appear)
+In Proceedings of the 2024 ACM SIGMOD International Conference on Management of Data. 
+([paper](https://dl.acm.org/doi/pdf/10.1145/3626768))
 
 **\[SIGMOD '22\]** WeTune: Automatic Discovery and Verification of Query Rewrite Rules. 
 Zhaoguo Wang, Zhou Zhou, Yicun Yang, Haoran Ding, Gansen Hu, Ding Ding, Chuzhe Tang, Haibo Chen, Jinyang Li. 
